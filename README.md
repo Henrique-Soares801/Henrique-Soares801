@@ -47,8 +47,8 @@ Sistema em **Python** para análise de temperaturas médias ao longo do ano.
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Henrique-Soares01&show_icons=true&theme=tokyonight&hide_rank=true&locale=pt-br" alt="Estatísticas públicas de Henrique Soares no GitHub" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Henrique-Soares01&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens presentes nos repositórios públicos de Henrique Soares" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Henrique-Soares801&show_icons=true&theme=tokyonight&hide_rank=true&locale=pt-br" alt="Estatísticas públicas de Henrique Soares no GitHub" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Henrique-Soares801&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens presentes nos repositórios públicos de Henrique Soares" />
 </p>
 
 ---
