@@ -39,7 +39,7 @@ Aqui compartilho meus projetos e minha evolução em **ciência e análise de da
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🌡️ [**Analisador de Temperatura**](https://github.com/Henrique-Soares801/Analisador-de-Temperatura) | Lê as temperaturas médias dos 12 meses e gera um resumo estatístico do ano: média, mês mais quente, mês mais frio e meses acima da média. | Python, listas, estatística descritiva |
+| 🌡️ [**Analisador de Temperatura**](https://github.com/Henrique-Soares801/Analisador-de-Temperatura) | Lê a temperatura média de cada mês do ano e calcula a média anual. | Python, laço `for`, acumuladores |
 | 🐍 [**Exercícios de Python**](https://github.com/Henrique-Soares801/exercicios-python) | Coleção de exercícios de lógica de programação, organizados por tema, com problemas práticos do dia a dia: conversão de bases, cálculo de financiamento, jogo de adivinhação e mais. | Python, estruturas condicionais |
 
 ## 📊 Estatísticas do GitHub
